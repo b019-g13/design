@@ -1,0 +1,49 @@
+Så en kombo jeg likte på https://www.webdesignrankings.com/resources/lolcolors/
+Disse: https://i.xdh.no/164fb2496936
+#282c37
+#9baec8
+#d9e1e8
+#2b90d9
+
+Valgte #2b90d9 som primærfarge.
+Kjørte den gjennom PALX: https://palx.jxnblk.com/2B90D9
+
+
+Trenger ikke alle disse fargene. Valgte noen.
+Lagde en pallet i Figma. Tok farge nr 1, 3, 5, 7 og 9 fra PALX.
+Lagret fargene som variabler i en SCSS fil. Se colors.scss
+
+Blå brukes som primary
+Oransje brukes som accent
+Gul brukes til advarseler
+Rød brukes til negativ
+Blågrønn brukes til positiv
+Cyan brukes til informasjon
+
+Fonts fra Google Fonts.
+Overskrifter: https://fonts.google.com/specimen/EB+Garamond
+Vanlig tekst: https://fonts.google.com/specimen/Rubik
+
+Design elementer:
+Dotter som skygger
+
+Ikoner:
+https://material.io/tools/icons/
+
+Inspo:
+https://dribbble.com/
+https://mixpanel.com/
+
+Verktøy:
+https://www.colorhexa.com/
+https://cloudflare.design/color/
+https://palx.jxnblk.com/
+http://jxnblk.com/colorable/demos/text/
+
+
+Begynte så på mockups med Figma.
+Lagde to utkast i litt forskjellige stiler.
+Sendte disse til Hans-Christian
+
+Mockup 1 og 2: Kart. Lagd med https://mapstyle.withgoogle.com/. Eksporte JSON. Se fil
+Mockup 2: Prosessen inspo av https://dribbble.com/shots/5260798-Process
